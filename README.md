@@ -24,7 +24,7 @@ Some days I’m writing C++ for data structures, other days I’m designing UI s
 
 ### 📈 GitHub Activity
 
-<div align="center">
+<div align="center", gap="5px">
   <img src="https://github-readme-stats.vercel.app/api?username=mohdabdullahmeraj&show_icons=true&theme=tokyonight&hide_border=true&hide=prs" height="180px"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohdabdullahmeraj&layout=compact&theme=tokyonight&hide_border=true" height="180px"/>
 </div>

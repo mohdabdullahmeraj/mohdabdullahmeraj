@@ -1,5 +1,3 @@
-## Hi there 👋
-
 ## Hey, I’m Abdullah 👋
 
 Not your typical CS undergrad — I blend logic with aesthetics.  

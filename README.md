@@ -26,8 +26,10 @@ Some days I’m writing C++ for data structures, other days I’m designing UI s
 
 ### 📈 GitHub Activity
 
-![Abdullah's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mohdabdullahmeraj&show_icons=true&theme=tokyonight&hide_border=true&hide=prs)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mohdabdullahmeraj&layout=compact&theme=tokyonight&hide_border=true)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mohdabdullahmeraj&show_icons=true&theme=tokyonight&hide_border=true&hide=prs" height="180px"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohdabdullahmeraj&layout=compact&theme=tokyonight&hide_border=true" height="180px"/>
+</div>
 
 ---
 

@@ -16,7 +16,8 @@ function createBar(percentage) {
       headers: { Authorization: `Bearer ${API_KEY}` },
     });
 
-    const data = res.data.data.languages.slice(0, 6);
+    const data = res.data.data.languages?.slice(0, 6) || [];
+    console.log(res.data);
     const lines = data.map(lang => {
       const time = `${lang.hours} hrs ${lang.minutes} mins`.padEnd(17);
       const bar = createBar(lang.percent);

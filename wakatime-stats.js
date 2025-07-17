@@ -2,7 +2,7 @@ const fs = require("fs");
 const axios = require("axios");
 
 const API_KEY = process.env.WAKATIME_API_KEY;
-const API_URL = "https://wakatime.com/api/v1/users/current/stats/all_time";
+const API_URL = "https://wakatime.com/api/v1/users/current/stats/all_time?api_key=${apiKey}";
 
 function createBar(percentage) {
   const totalBars = 30;

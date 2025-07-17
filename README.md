@@ -18,5 +18,7 @@ Here are some ideas to get you started:
 ### 📊 All-Time Coding Stats
 
 <!--START_WAKATIME_SECTION-->
+```txt
+```
 <!--END_WAKATIME_SECTION-->
 

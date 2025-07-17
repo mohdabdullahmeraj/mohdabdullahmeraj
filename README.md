@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+### 📊 All-Time Coding Stats
+
+<!--START_WAKATIME_SECTION-->
+Loading...
+<!--END_WAKATIME_SECTION-->
+

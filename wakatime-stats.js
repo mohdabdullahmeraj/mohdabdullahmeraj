@@ -38,7 +38,7 @@ function createBar(percentage) {
       /<!--START_WAKATIME_SECTION-->[\s\S]*<!--END_WAKATIME_SECTION-->/,
       output
     );
-
+    console.log("KEY EXISTS:", !!process.env.WAKATIME_API_KEY);
     fs.writeFileSync("README.md", updatedReadme);
     console.log("✅ WakaTime stats updated in README.md");
   } catch (err) {

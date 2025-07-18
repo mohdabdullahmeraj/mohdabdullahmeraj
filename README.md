@@ -19,6 +19,7 @@ Some days I’m writing C++ for data structures, other days I’m designing UI s
 
 <!--START_WAKATIME_SECTION-->
 ```txt
+JavaScript   0 hrs 11 mins     ██████████████████████████████ 100.00 %
 ```
 <!--END_WAKATIME_SECTION-->
 

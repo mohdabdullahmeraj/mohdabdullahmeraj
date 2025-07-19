@@ -19,7 +19,8 @@ Some days I’m writing C++ for data structures, other days I’m designing UI s
 
 <!--START_WAKATIME_SECTION-->
 ```txt
-JavaScript   0 hrs 11 mins     ██████████████████████████████ 100.00 %
+JavaScript   3 hrs 37 mins     ██████████████████████████████ 99.99 %
+Other        0 hrs 0 mins      ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░  0.01 %
 ```
 <!--END_WAKATIME_SECTION-->
 

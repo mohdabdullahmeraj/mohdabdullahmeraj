@@ -19,12 +19,12 @@ Some days I’m writing C++ for data structures, other days I’m designing UI s
 
 <!--START_WAKATIME_SECTION-->
 ```txt
-JavaScript   32 hrs 19 mins    ███████████░░░░░░░░░░░░░░░░░░░ 35.06 %
-TypeScript   27 hrs 14 mins    █████████░░░░░░░░░░░░░░░░░░░░░ 29.54 %
-Dart         12 hrs 17 mins    ████░░░░░░░░░░░░░░░░░░░░░░░░░░ 13.34 %
-CSS          6 hrs 31 mins     ██░░░░░░░░░░░░░░░░░░░░░░░░░░░░  7.08 %
-JSON         3 hrs 31 mins     █░░░░░░░░░░░░░░░░░░░░░░░░░░░░░  3.83 %
-Bash         2 hrs 23 mins     █░░░░░░░░░░░░░░░░░░░░░░░░░░░░░  2.59 %
+JavaScript   32 hrs 19 mins    ██████████░░░░░░░░░░░░░░░░░░░░ 34.89 %
+TypeScript   27 hrs 23 mins    █████████░░░░░░░░░░░░░░░░░░░░░ 29.58 %
+Dart         12 hrs 30 mins    ████░░░░░░░░░░░░░░░░░░░░░░░░░░ 13.50 %
+CSS          6 hrs 31 mins     ██░░░░░░░░░░░░░░░░░░░░░░░░░░░░  7.04 %
+JSON         3 hrs 31 mins     █░░░░░░░░░░░░░░░░░░░░░░░░░░░░░  3.81 %
+Bash         2 hrs 23 mins     █░░░░░░░░░░░░░░░░░░░░░░░░░░░░░  2.58 %
 ```
 <!--END_WAKATIME_SECTION-->
 

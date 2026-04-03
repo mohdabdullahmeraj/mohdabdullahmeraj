@@ -21,7 +21,7 @@ jobs:
           node-version: 18
 
       - name: Install axios
-        run: npm install axios
+        run: npm ci
 
       - name: Run WakaTime Stats Script
         run: node wakatime-stats.js

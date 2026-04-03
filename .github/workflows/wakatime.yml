@@ -21,7 +21,7 @@ jobs:
           node-version: 18
 
       - name: Install axios
-        run: npm ci
+        run: npm install axios
 
       - name: Run WakaTime Stats Script
         run: node wakatime-stats.js
@@ -32,7 +32,6 @@ jobs:
         run: |
           git config --global user.name "GitHub Actions"
           git config --global user.email "actions@github.com"
-          git pull --rebase origin main
-          git add README.md package.json package-lock.json || true
+          git add README.md
           git commit -m "📊 Update WakaTime stats" || echo "No changes to commit"
           git push

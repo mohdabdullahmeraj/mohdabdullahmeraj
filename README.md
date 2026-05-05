@@ -28,12 +28,6 @@ JSON         4 hrs 1 mins      █░░░░░░░░░░░░░░░�
 ```
 <!--END_WAKATIME_SECTION-->
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mohdabdullahmeraj&show_icons=true&theme=tokyonight&hide_border=true&hide=prs" height="180px" style="vertical-align: middle;"/>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohdabdullahmeraj&layout=compact&theme=tokyonight&hide_border=true" height="180px" style="vertical-align: middle;"/>
-</div>
-
 ---
 
 🧭 *"Still figuring it out. But that’s the fun part."*

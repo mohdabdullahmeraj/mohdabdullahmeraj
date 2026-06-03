@@ -20,11 +20,11 @@ Also into UI/UX, so I think about how it feels to use, not just how it’s built
 
 <!--START_WAKATIME_SECTION-->
 ```txt
-TypeScript   38 hrs 34 mins    █████████░░░░░░░░░░░░░░░░░░░░░ 30.60 %
-JavaScript   32 hrs 45 mins    ████████░░░░░░░░░░░░░░░░░░░░░░ 25.98 %
-Dart         18 hrs 38 mins    ████░░░░░░░░░░░░░░░░░░░░░░░░░░ 14.79 %
-CSS          6 hrs 45 mins     ██░░░░░░░░░░░░░░░░░░░░░░░░░░░░  5.36 %
-JSON         4 hrs 47 mins     █░░░░░░░░░░░░░░░░░░░░░░░░░░░░░  3.80 %
+TypeScript   38 hrs 34 mins    █████████░░░░░░░░░░░░░░░░░░░░░ 30.54 %
+JavaScript   32 hrs 45 mins    ████████░░░░░░░░░░░░░░░░░░░░░░ 25.94 %
+Dart         18 hrs 38 mins    ████░░░░░░░░░░░░░░░░░░░░░░░░░░ 14.76 %
+CSS          6 hrs 45 mins     ██░░░░░░░░░░░░░░░░░░░░░░░░░░░░  5.35 %
+JSON         4 hrs 47 mins     █░░░░░░░░░░░░░░░░░░░░░░░░░░░░░  3.79 %
 Bash         4 hrs 32 mins     █░░░░░░░░░░░░░░░░░░░░░░░░░░░░░  3.60 %
 ```
 <!--END_WAKATIME_SECTION-->

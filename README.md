@@ -20,12 +20,12 @@ Also into UI/UX, so I think about how it feels to use, not just how it’s built
 
 <!--START_WAKATIME_SECTION-->
 ```txt
-JavaScript   44 hrs 46 mins    █████████░░░░░░░░░░░░░░░░░░░░░ 28.45 %
-TypeScript   44 hrs 43 mins    █████████░░░░░░░░░░░░░░░░░░░░░ 28.42 %
-Dart         19 hrs 8 mins     ████░░░░░░░░░░░░░░░░░░░░░░░░░░ 12.16 %
-CSS          9 hrs 29 mins     ██░░░░░░░░░░░░░░░░░░░░░░░░░░░░  6.03 %
-Markdown     7 hrs 33 mins     █░░░░░░░░░░░░░░░░░░░░░░░░░░░░░  4.80 %
-JSON         6 hrs 11 mins     █░░░░░░░░░░░░░░░░░░░░░░░░░░░░░  3.93 %
+JavaScript   48 hrs 1 mins     █████████░░░░░░░░░░░░░░░░░░░░░ 29.87 %
+TypeScript   44 hrs 43 mins    ████████░░░░░░░░░░░░░░░░░░░░░░ 27.83 %
+Dart         19 hrs 8 mins     ████░░░░░░░░░░░░░░░░░░░░░░░░░░ 11.90 %
+CSS          9 hrs 30 mins     ██░░░░░░░░░░░░░░░░░░░░░░░░░░░░  5.91 %
+Markdown     7 hrs 35 mins     █░░░░░░░░░░░░░░░░░░░░░░░░░░░░░  4.73 %
+JSON         6 hrs 15 mins     █░░░░░░░░░░░░░░░░░░░░░░░░░░░░░  3.89 %
 ```
 <!--END_WAKATIME_SECTION-->
 

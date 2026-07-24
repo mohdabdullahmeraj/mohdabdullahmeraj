@@ -20,12 +20,6 @@ Also into UI/UX, so I think about how it feels to use, not just how it’s built
 
 <!--START_WAKATIME_SECTION-->
 ```txt
-JavaScript   63 hrs 23 mins    ██████████░░░░░░░░░░░░░░░░░░░░ 34.07 %
-TypeScript   47 hrs 32 mins    ████████░░░░░░░░░░░░░░░░░░░░░░ 25.55 %
-Dart         19 hrs 8 mins     ███░░░░░░░░░░░░░░░░░░░░░░░░░░░ 10.29 %
-Markdown     10 hrs 33 mins    ██░░░░░░░░░░░░░░░░░░░░░░░░░░░░  5.68 %
-CSS          9 hrs 50 mins     ██░░░░░░░░░░░░░░░░░░░░░░░░░░░░  5.29 %
-Python       6 hrs 31 mins     █░░░░░░░░░░░░░░░░░░░░░░░░░░░░░  3.50 %
 ```
 <!--END_WAKATIME_SECTION-->
 
